@@ -1,0 +1,46 @@
+# NetBeans specific
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Test directories and data files
+**/data_signals.csv
+**/marcadores.txt
+*) */
+null */
+
+# Log files
+*.log
+
+# Database backup files
+*.mwb.bak
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.iml
+
+# Maven
+target/
+
+# Specific project files you want to exclude
+/Base de datos/
+/Complementos/
+/Driver/
+/Procedimientos Almacenados/
+/Complementos de netbeans/
